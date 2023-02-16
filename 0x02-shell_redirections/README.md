@@ -1,1 +1,1 @@
-shell redirections cool
+shell redirections
